@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FinalSchool/static/css/main.54e79758.css",
-    "main.js": "/FinalSchool/static/js/main.1f6ac62e.js",
+    "main.js": "/FinalSchool/static/js/main.626d72ff.js",
     "static/media/11.png": "/FinalSchool/static/media/11.d3c4e577165a41f575e8.png",
     "static/media/08.png": "/FinalSchool/static/media/08.6f3c19296c7ec6aac77b.png",
     "static/media/cisco.png": "/FinalSchool/static/media/cisco.64fd65c5146ce9ef5d25.png",
@@ -29,10 +29,10 @@
     "static/media/zoho.png": "/FinalSchool/static/media/zoho.a4800c71e2197a1ef657.png",
     "index.html": "/FinalSchool/index.html",
     "main.54e79758.css.map": "/FinalSchool/static/css/main.54e79758.css.map",
-    "main.1f6ac62e.js.map": "/FinalSchool/static/js/main.1f6ac62e.js.map"
+    "main.626d72ff.js.map": "/FinalSchool/static/js/main.626d72ff.js.map"
   },
   "entrypoints": [
     "static/css/main.54e79758.css",
-    "static/js/main.1f6ac62e.js"
+    "static/js/main.626d72ff.js"
   ]
 }
