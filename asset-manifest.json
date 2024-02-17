@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FinalSchool/static/css/main.54e79758.css",
-    "main.js": "/FinalSchool/static/js/main.626d72ff.js",
+    "main.js": "/FinalSchool/static/js/main.cf72768d.js",
     "static/media/11.png": "/FinalSchool/static/media/11.d3c4e577165a41f575e8.png",
     "static/media/08.png": "/FinalSchool/static/media/08.6f3c19296c7ec6aac77b.png",
     "static/media/cisco.png": "/FinalSchool/static/media/cisco.64fd65c5146ce9ef5d25.png",
@@ -10,8 +10,11 @@
     "static/media/avasoft.png": "/FinalSchool/static/media/avasoft.907a2c84c85cdde7c268.png",
     "static/media/09.jpeg": "/FinalSchool/static/media/09.70680cd9decee27b39cc.jpeg",
     "static/media/accenture.png": "/FinalSchool/static/media/accenture.8082a4b7dc047f0fc408.png",
+    "static/media/17.jpeg": "/FinalSchool/static/media/17.ce1b5f152e6fc970ba34.jpeg",
+    "static/media/15.jpeg": "/FinalSchool/static/media/15.34eb931fa0a1f147a3f9.jpeg",
     "static/media/bus.jpg": "/FinalSchool/static/media/bus.3cdfdd762da045dfce1f.jpg",
     "static/media/10.jpeg": "/FinalSchool/static/media/10.bc618968e8954e5db743.jpeg",
+    "static/media/16.jpeg": "/FinalSchool/static/media/16.d729b791c7728e324f75.jpeg",
     "static/media/wipro.png": "/FinalSchool/static/media/wipro.3157467e6aeb1b688988.png",
     "static/media/05.jpeg": "/FinalSchool/static/media/05.bb76fde182d1623c9dbc.jpeg",
     "static/media/03.jpeg": "/FinalSchool/static/media/03.8e34c650fae3606ababe.jpeg",
@@ -29,10 +32,10 @@
     "static/media/zoho.png": "/FinalSchool/static/media/zoho.a4800c71e2197a1ef657.png",
     "index.html": "/FinalSchool/index.html",
     "main.54e79758.css.map": "/FinalSchool/static/css/main.54e79758.css.map",
-    "main.626d72ff.js.map": "/FinalSchool/static/js/main.626d72ff.js.map"
+    "main.cf72768d.js.map": "/FinalSchool/static/js/main.cf72768d.js.map"
   },
   "entrypoints": [
     "static/css/main.54e79758.css",
-    "static/js/main.626d72ff.js"
+    "static/js/main.cf72768d.js"
   ]
 }
