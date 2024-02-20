@@ -1,26 +1,30 @@
 {
   "files": {
     "main.css": "/FinalSchool/static/css/main.54e79758.css",
-    "main.js": "/FinalSchool/static/js/main.cf72768d.js",
+    "main.js": "/FinalSchool/static/js/main.fca5f485.js",
+    "static/media/29.png": "/FinalSchool/static/media/29.92a5e365c187d49dad51.png",
+    "static/media/28.png": "/FinalSchool/static/media/28.ca29d9f14b4f0b19c5f2.png",
+    "static/media/30.png": "/FinalSchool/static/media/30.5a3bcc3cf7aef3e9b709.png",
+    "static/media/32.png": "/FinalSchool/static/media/32.d2ea88efd231876e394b.png",
+    "static/media/33.png": "/FinalSchool/static/media/33.17785a8a2bf4232aea94.png",
+    "static/media/31.png": "/FinalSchool/static/media/31.266f7f68f35409e8f88b.png",
+    "static/media/23.png": "/FinalSchool/static/media/23.bee6158c909fe346ae22.png",
+    "static/media/34.png": "/FinalSchool/static/media/34.6f6d34aea5956c2c2fde.png",
     "static/media/11.png": "/FinalSchool/static/media/11.d3c4e577165a41f575e8.png",
-    "static/media/08.png": "/FinalSchool/static/media/08.6f3c19296c7ec6aac77b.png",
+    "static/media/24.png": "/FinalSchool/static/media/24.df5fdb18fb65443f7095.png",
+    "static/media/22.png": "/FinalSchool/static/media/22.7457e875d50e515f3e4e.png",
+    "static/media/21.png": "/FinalSchool/static/media/21.56bdb891163db2ee5cff.png",
     "static/media/cisco.png": "/FinalSchool/static/media/cisco.64fd65c5146ce9ef5d25.png",
     "static/media/07.png": "/FinalSchool/static/media/07.eeb6dc1b6b329081c76f.png",
-    "static/media/04.jpeg": "/FinalSchool/static/media/04.b0f7663cb26eb7d2b141.jpeg",
     "static/media/avasoft.png": "/FinalSchool/static/media/avasoft.907a2c84c85cdde7c268.png",
-    "static/media/09.jpeg": "/FinalSchool/static/media/09.70680cd9decee27b39cc.jpeg",
+    "static/media/20.png": "/FinalSchool/static/media/20.2c21c61e32f4b95e9c88.png",
     "static/media/accenture.png": "/FinalSchool/static/media/accenture.8082a4b7dc047f0fc408.png",
     "static/media/17.jpeg": "/FinalSchool/static/media/17.ce1b5f152e6fc970ba34.jpeg",
     "static/media/15.jpeg": "/FinalSchool/static/media/15.34eb931fa0a1f147a3f9.jpeg",
     "static/media/bus.jpg": "/FinalSchool/static/media/bus.3cdfdd762da045dfce1f.jpg",
-    "static/media/10.jpeg": "/FinalSchool/static/media/10.bc618968e8954e5db743.jpeg",
     "static/media/16.jpeg": "/FinalSchool/static/media/16.d729b791c7728e324f75.jpeg",
     "static/media/wipro.png": "/FinalSchool/static/media/wipro.3157467e6aeb1b688988.png",
-    "static/media/05.jpeg": "/FinalSchool/static/media/05.bb76fde182d1623c9dbc.jpeg",
-    "static/media/03.jpeg": "/FinalSchool/static/media/03.8e34c650fae3606ababe.jpeg",
-    "static/media/02.jpeg": "/FinalSchool/static/media/02.2fa49d22eb060c5f3077.jpeg",
     "static/media/food.png": "/FinalSchool/static/media/food.4b32153b0da9cbb35e1b.png",
-    "static/media/01.jpeg": "/FinalSchool/static/media/01.0030496e11ed222201e3.jpeg",
     "static/media/14.jpeg": "/FinalSchool/static/media/14.43b5b26dd87f91d23f50.jpeg",
     "static/media/12.jpeg": "/FinalSchool/static/media/12.4c1e95109c71b1a929c1.jpeg",
     "static/media/cognizant.png": "/FinalSchool/static/media/cognizant.397dd770c1dcbea73f72.png",
@@ -28,14 +32,16 @@
     "static/media/mindtree.png": "/FinalSchool/static/media/mindtree.d55875fdec37d3afc459.png",
     "static/media/06.jpeg": "/FinalSchool/static/media/06.8430e913092fca20369c.jpeg",
     "static/media/post.jpeg": "/FinalSchool/static/media/post.396ffa1bc24dea5cca3e.jpeg",
+    "static/media/tcs.png": "/FinalSchool/static/media/tcs.b834d069f4d064bd4c8c.png",
     "static/media/adobe.png": "/FinalSchool/static/media/adobe.d41725c3e13f080f6fee.png",
     "static/media/zoho.png": "/FinalSchool/static/media/zoho.a4800c71e2197a1ef657.png",
+    "static/media/infosys.png": "/FinalSchool/static/media/infosys.b94697a1c53b389fe8eb.png",
     "index.html": "/FinalSchool/index.html",
     "main.54e79758.css.map": "/FinalSchool/static/css/main.54e79758.css.map",
-    "main.cf72768d.js.map": "/FinalSchool/static/js/main.cf72768d.js.map"
+    "main.fca5f485.js.map": "/FinalSchool/static/js/main.fca5f485.js.map"
   },
   "entrypoints": [
     "static/css/main.54e79758.css",
-    "static/js/main.cf72768d.js"
+    "static/js/main.fca5f485.js"
   ]
 }
