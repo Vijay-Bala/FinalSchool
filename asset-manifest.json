@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FinalSchool/static/css/main.54e79758.css",
-    "main.js": "/FinalSchool/static/js/main.fca5f485.js",
+    "main.css": "/FinalSchool/static/css/main.57df2a19.css",
+    "main.js": "/FinalSchool/static/js/main.3bfe6b1f.js",
     "static/media/29.png": "/FinalSchool/static/media/29.92a5e365c187d49dad51.png",
     "static/media/28.png": "/FinalSchool/static/media/28.ca29d9f14b4f0b19c5f2.png",
     "static/media/30.png": "/FinalSchool/static/media/30.5a3bcc3cf7aef3e9b709.png",
@@ -34,14 +34,23 @@
     "static/media/post.jpeg": "/FinalSchool/static/media/post.396ffa1bc24dea5cca3e.jpeg",
     "static/media/tcs.png": "/FinalSchool/static/media/tcs.b834d069f4d064bd4c8c.png",
     "static/media/adobe.png": "/FinalSchool/static/media/adobe.d41725c3e13f080f6fee.png",
+    "static/media/peninsularresearchoperation.png": "/FinalSchool/static/media/peninsularresearchoperation.c3c43673601fa917a624.png",
     "static/media/zoho.png": "/FinalSchool/static/media/zoho.a4800c71e2197a1ef657.png",
     "static/media/infosys.png": "/FinalSchool/static/media/infosys.b94697a1c53b389fe8eb.png",
+    "static/media/softura.png": "/FinalSchool/static/media/softura.46b4fbd801e0d358f66b.png",
+    "static/media/newgenesis.png": "/FinalSchool/static/media/newgenesis.49b650c9c79466925992.png",
+    "static/media/kanini.png": "/FinalSchool/static/media/kanini.8f57197e37b633b8edf3.png",
+    "static/media/tataelxsi.png": "/FinalSchool/static/media/tataelxsi.c2fe54394cf9eeade265.png",
+    "static/media/sirius.png": "/FinalSchool/static/media/sirius.a3d2c324ad1741183080.png",
+    "static/media/zelfstudie.png": "/FinalSchool/static/media/zelfstudie.4b2baefc8a12286da617.png",
+    "static/media/gold.png": "/FinalSchool/static/media/gold.49072dfb9b9b84ce6da9.png",
+    "static/media/multicoreware.png": "/FinalSchool/static/media/multicoreware.5ef75d88671c6331d9ee.png",
     "index.html": "/FinalSchool/index.html",
-    "main.54e79758.css.map": "/FinalSchool/static/css/main.54e79758.css.map",
-    "main.fca5f485.js.map": "/FinalSchool/static/js/main.fca5f485.js.map"
+    "main.57df2a19.css.map": "/FinalSchool/static/css/main.57df2a19.css.map",
+    "main.3bfe6b1f.js.map": "/FinalSchool/static/js/main.3bfe6b1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.54e79758.css",
-    "static/js/main.fca5f485.js"
+    "static/css/main.57df2a19.css",
+    "static/js/main.3bfe6b1f.js"
   ]
 }
